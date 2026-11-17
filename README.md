@@ -6,5 +6,3 @@ Code for the figure in Exercise 3 (b)(i): the choices of participant 25 in the r
 - `A1_Ex3b_figure.png`: the figure, as used in the submitted PDF.
 
 To reproduce it, run all cells of the notebook (Python 3, numpy, matplotlib). The bundles are typed into cell 3 from the experiment data.
-
-![Figure](A1_Ex3b_figure.png)
